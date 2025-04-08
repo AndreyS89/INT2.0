@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2776b1dda5f95c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4778c195c7413f59",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/PROGRAMMING canvas.canvas",
+                "viewState": {
+                  "x": -18.81173562556971,
+                  "y": 439.6413031431172,
+                  "zoom": -1.3333333333333333
+                }
+              }
+            }
+          },
+          {
+            "id": "36459666735206a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/Просто о компьютерном железе, битах и байтах.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd8b6ff775cba365",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f5850211372016b",
+            "type": "tabs",
+            "dimension": 80.15873015873017,
+            "children": [
+              {
+                "id": "6031f15bf2f191b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Устанавливаем Debian Linux в WSL или VirtualBox.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1b99b15a7c55f7af",
+            "type": "tabs",
+            "dimension": 19.841269841269842,
+            "children": [
+              {
+                "id": "8ddadd6a988afb48",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 BD/0 BD names.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c8733a69338bcdd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 BD/0 Obsidian hotkeys.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1_",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Устанавливаем Debian Linux в WSL или VirtualBox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Устанавливаем Debian Linux в WSL или VirtualBox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Устанавливаем Debian Linux в WSL или VirtualBox.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 695.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "4778c195c7413f59",
+  "lastOpenFiles": [
+    "Устанавливаем Debian Linux в WSL или VirtualBox.md",
+    "5 ЛИЧНЫЙ РОСТ/PROGRAMMING canvas.canvas",
+    "Об операционных системах, GUI и терминале.md",
+    "0 BD/0 BD names.md",
+    "5 ЛИЧНЫЙ РОСТ/PROGRAMMING.md",
+    "5 ЛИЧНЫЙ РОСТ/Компьютерные технологии.md",
+    "5 ЛИЧНЫЙ РОСТ/Просто о компьютерном железе, битах и байтах.md",
+    "2 РАБОТА/ИНТЕРЬЕР - КАРТА.canvas",
+    "2 РАБОТА/2.2 КУРС ИНТЕРЬРА canvas.canvas",
+    "2 РАБОТА/2.0 РАБОТА canvas.canvas",
+    "5 ЛИЧНЫЙ РОСТ/PROGRAMMING ОБУЧЕНИЕ.md",
+    "Daily/PC 2024-05-13.md",
+    "0 BD/0 Obsidian hotkeys.md",
+    "6 ТВОРЧЕСТВО/6 ТВОРЧЕСТВО.md",
+    "0 BD/0 BD canvas.canvas",
+    "Daily/2024-02-23 2.md",
+    "0 BD/0 Kanban.md",
+    "0 BD.md",
+    "0 BD/0 DASH BOARD.md",
+    "sync.ffs_lock",
+    "1 ЗДОРОВЬЕ/1 ЗДОРОВЬЕ.md",
+    "4 ЛЖ/4 ЛЖ.md",
+    "2 РАБОТА/2 РАБОТА.md",
+    "3 ФИНАНСЫ/3 ФИНАНСЫ.md",
+    "7 ОКРУЖЕНИЕ/7 ОКРУЖЕНИЕ.md",
+    "5 ЛИЧНЫЙ РОСТ/5 ЛИЧНЫЙ РОСТ.md",
+    "5 ЛИЧНЫЙ РОСТ/Stable Diffusion 1.md",
+    "Daily/PC 2024-04-03.md",
+    "5 ЛИЧНЫЙ РОСТ/AI.md",
+    "5 ЛИЧНЫЙ РОСТ/Stable Diffusion.md",
+    "CG ART MindMap.canvas",
+    "1 ЗДОРОВЬЕ.md",
+    "CG ART MindMap-6dee.ffs_tmp",
+    "Files/Pasted image 20240508222743.png",
+    "Files/Pasted image 20240508222159.png",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "6 ТВОРЧЕСТВО/CG ART MindMap.canvas",
+    "Files/Pasted image 20240429014411.png",
+    "Files/Pasted image 20240429014154.png",
+    "Files/CG Art.png",
+    "copilot-conversations",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist 1.pdf",
+    "2 РАБОТА/KG MindMap.canvas",
+    "Files/Pasted image 20240327195853.png",
+    "Files/Pasted Image 20240326144825_355.png",
+    "Files/Pasted image 20240326142404.png",
+    "Daily/2024-03-25 2-41bc.ffs_tmp",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist.pdf",
+    "7 ОКРУЖЕНИЕ/7.0 ОКРУЖЕНИЕ canvas.canvas",
+    "6 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "Files/Pasted image 20240223214227.png",
+    "Files/Pasted image 20231001114609.png"
+  ]
+}

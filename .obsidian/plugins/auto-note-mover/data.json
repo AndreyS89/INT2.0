@@ -1,0 +1,112 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "2 ИНТЕРЬЕР/21 IN management",
+      "tag": "#in_stage_1_management",
+      "pattern": ""
+    },
+    {
+      "folder": "2 ИНТЕРЬЕР/22 IN theory",
+      "tag": "#in_stage_2_theory",
+      "pattern": ""
+    },
+    {
+      "folder": "2 ИНТЕРЬЕР/23 IN revit",
+      "tag": "#in_stage_3_revit",
+      "pattern": ""
+    },
+    {
+      "folder": "2 ИНТЕРЬЕР/24 IN blender",
+      "tag": "#in_stage_4_blender",
+      "pattern": ""
+    },
+    {
+      "folder": "2 ИНТЕРЬЕР/20 IN PROJECTS",
+      "tag": "#in_project",
+      "pattern": ""
+    },
+    {
+      "folder": "1 ПРОГРАММЫ",
+      "tag": "#prog",
+      "pattern": ""
+    },
+    {
+      "folder": "3 ДИЗАЙН/30 DZ PROJECTS",
+      "tag": "#dz_project",
+      "pattern": ""
+    },
+    {
+      "folder": "3 ДИЗАЙН/31 DZ management",
+      "tag": "#dz_stage_1_management",
+      "pattern": ""
+    },
+    {
+      "folder": "3 ДИЗАЙН/32 DZ theory",
+      "tag": "#dz_stage_2_theory",
+      "pattern": ""
+    },
+    {
+      "folder": "3 ДИЗАЙН/33 DZ figma",
+      "tag": "#dz_stage_3_figma",
+      "pattern": ""
+    },
+    {
+      "folder": "3 ДИЗАЙН/34 DZ nich",
+      "tag": "#dz_stage_4_niche",
+      "pattern": ""
+    },
+    {
+      "folder": "4 ТВОРЧЕСТВО/41 ART CG",
+      "tag": "#art_cg",
+      "pattern": ""
+    },
+    {
+      "folder": "4 ТВОРЧЕСТВО/40 ART",
+      "tag": "#art",
+      "pattern": ""
+    },
+    {
+      "folder": "4 ТВОРЧЕСТВО/42 ART ПИАНИНО",
+      "tag": "#art_piano",
+      "pattern": ""
+    },
+    {
+      "folder": "5 AI",
+      "tag": "#ai",
+      "pattern": ""
+    },
+    {
+      "folder": "6 ДЕЯТЕЛЬНОСТЬ",
+      "tag": "#activity",
+      "pattern": ""
+    },
+    {
+      "folder": "7 МЫШЛЕНИЕ",
+      "tag": "#mind",
+      "pattern": ""
+    },
+    {
+      "folder": "8 АРХИТЕКТУРА",
+      "tag": "#arch",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "0 Organize"
+    },
+    {
+      "folder": "0 BD"
+    },
+    {
+      "folder": "1 ПРОГРАММЫ"
+    },
+    {
+      "folder": "Templates"
+    }
+  ]
+}

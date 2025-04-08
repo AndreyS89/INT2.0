@@ -1,0 +1,183 @@
+{
+  "workspaces": {
+    "1": {
+      "main": {
+        "id": "5306d8c9e156dada",
+        "type": "split",
+        "children": [
+          {
+            "id": "851d6678dff87388",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "447e1bc89b44ebdd",
+                "type": "leaf",
+                "state": {
+                  "type": "card-board-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "baa8ef3ca8488583",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66b35ab47ba9faf1",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c5b9faeaeb514657",
+        "type": "split",
+        "children": [
+          {
+            "id": "a2b987723fd3584a",
+            "type": "tabs",
+            "dimension": 57.7922077922078,
+            "children": [
+              {
+                "id": "86b128d30b22f50b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "72f8e410b9e0cbcf",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Сервантес",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "df3d4670810fc5d3",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "85b783a8e0a6e9f1",
+            "type": "tabs",
+            "dimension": 42.2077922077922,
+            "children": [
+              {
+                "id": "b3fb655f7e10ac49",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "aa283fe09a47b875",
+        "type": "split",
+        "children": [
+          {
+            "id": "952f0e2fd09f13fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b6ca29e396ce5aa",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8bfd96a122f41a21",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1045389ab3af7449",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "c197c3d5e406d067",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "card-board:CardBoard": false
+        }
+      },
+      "active": "66b35ab47ba9faf1",
+      "mtime": "2024-03-27T18:14:16+03:00"
+    }
+  },
+  "active": "1"
+}

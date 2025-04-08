@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "!20 IN ИНТЕРЬЕР"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 65.4922279792746,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d27e483b07f63b3",
+        "type": "tabs",
+        "dimension": 34.50777202072539,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of !20 IN ИНТЕРЬЕР"
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "0 BD/!0 BD NAMES.md",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+    "sync.ffs_db.652d.ffs_tmp",
+    "sync.ffs_lock",
+    "sync.ffs_db.9733.ffs_tmp",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР 1.md",
+    "1 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
+    "().md",
+    "0 BD/0 Symbols.md",
+    "4 ТВОРЧЕСТВО/41 ART CG/41! ART CG.md",
+    "4 ТВОРЧЕСТВО/40 ART/!40 ART ТВОРЧЕСТВО.md",
+    "Files/Композиция и баланс.pdf",
+    "Files/Колористика для чайников.pdf",
+    "Files/Когда очень много текста.pdf",
+    "Files/Как проходить курс_compressed.pdf",
+    "Files/Какие бывают виды сайтов_compressed.pdf",
+    "Files/Как проходить курс_.pdf",
+    "Files/Как проходить курс.pdf",
+    "Files/3-min.webp",
+    "2 ИНТЕРЬЕР/23 IN revit/!IN 3 REVIT.md",
+    "2 ИНТЕРЬЕР/21 IN management/!IN 1 УПРАВЛЕНИЕ ПРОЕКТОМ.md",
+    "2 ИНТЕРЬЕР/24 IN blender/Untitled.md",
+    "0 Organize/Lookups/TYPE.md",
+    "1 ПРОГРАММЫ/!OBSIDIAN.md",
+    "1 ПРОГРАММЫ/!BLENDER.md",
+    "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
+    "Files/Pasted image 20250212113703.png",
+    "Files/Pasted image 20250212113555.png",
+    "Files/Pasted image 20250212113320.png",
+    "Files/Pasted image 20250212113114.png",
+    "Files/Pasted image 20250212112952.png",
+    "Files/Pasted image 20250212112757.png",
+    "Files/Pasted image 20250210181353.png",
+    "Files/Pasted image 20250210180859.png",
+    "BLENDER Kanban.md",
+    "Files/Pasted image 20250205184903.png",
+    "8 АРХИТЕКТУРА/!80 АРХИТЕКТУРА.md",
+    "1 ПРОГРАММЫ/!FIGMA.md",
+    "1 ПРОГРАММЫ/FIGMA - hotkeys.md",
+    "Templates/_80 АРХИТЕКТУРА.md",
+    "0 Organize/Classes/-80 АРХИТЕКТУРА.md",
+    "7 МЫШЛЕНИЕ/72! ИСТОРИЯ.md",
+    "7 МЫШЛЕНИЕ/!70 МЫШЛЕНИЕ.md",
+    "0 Organize/Classes/-70 МЫШЛЕНИЕ.md",
+    "0 Organize/Classes/-0 All.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2 ПРОГРАММЫ/BLENDER! canvas.canvas",
+    "0 BD/0 BD canvas.canvas",
+    "2 РАБОТА/26 TG/!TELEGRAM.canvas",
+    "6 ТВОРЧЕСТВО/63 CG Art/63 !CG ART MindMap.canvas",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO.canvas",
+    "5 ЛИЧНЫЙ РОСТ/55 OB/!55 OBSIDIAN/!55 Obsidian.canvas",
+    "6 ТВОРЧЕСТВО/60 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.canvas"
+  ]
+}

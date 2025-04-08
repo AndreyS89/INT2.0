@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2776b1dda5f95c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec375364d5891b98",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0 BD/DASHBOARD.canvas",
+                "viewState": {
+                  "x": 660.4323648985074,
+                  "y": -800.8198793697075,
+                  "zoom": -0.333333333333333
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1_",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 BD/DASHBOARD.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 BD/DASHBOARD.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 BD/DASHBOARD.canvas"
+              }
+            }
+          },
+          {
+            "id": "b583c2fc92c7b4f9",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "copilot:Copilot Chat": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "ec375364d5891b98",
+  "lastOpenFiles": [
+    "5 ЛИЧНЫЙ РОСТ/ПРИНЦИПЫ.md",
+    "ПРИНЦИПЫ.md",
+    "0 BD/0 BD names.md",
+    "0 BD/DASHBOARD.canvas",
+    "5 ЛИЧНЫЙ РОСТ/5 ЛИЧНЫЙ РОСТ.md",
+    "5 ЛИЧНЫЙ РОСТ/5.3_PROGRAMS.md",
+    "5 ЛИЧНЫЙ РОСТ/Obsidian.md",
+    "sync.ffs_lock",
+    "0 BD/0 BD canvas.canvas",
+    "2 РАБОТА/STUDIO CANVAS.canvas",
+    "Daily/2024-05-24.md",
+    "Daily/PC 2024-05-27.md",
+    "2 РАБОТА/2.0 РАБОТА canvas.canvas",
+    "0 BD/0 Obsidian hotkeys.md",
+    "Daily/PC 2024-05-22.md",
+    "2 РАБОТА/2 РАБОТА.md",
+    "2 РАБОТА/STUDIO.md",
+    "Files/Схема движения трафика 1.jpg",
+    "Files/Схема SMM продвижения 2024 1.jpg",
+    "Files/Структура проекта и инструменты 1.jpg",
+    "Files/Схема движения трафика.jpg",
+    "Files/Схема SMM продвижения 2024.jpg",
+    "Files/Структура проекта и инструменты.jpg",
+    "Files/Команда и распределение ролей.jpg",
+    "Daily/PC 2024-05-21.md",
+    "Daily/PC 2024-05-17.md",
+    "Daily/2024-05-15.md",
+    "Daily/PC 2024-05-16.md",
+    "Daily/PC 2024-05-15.md",
+    "6 ТВОРЧЕСТВО/Пётр Мамонов.md",
+    "Daily/2024-05-14.md",
+    "1 ЗДОРОВЬЕ/1.0 ЗДОРОВЬЕ canvas.canvas",
+    "0 BD/0 Kanban.md",
+    "5 ЛИЧНЫЙ РОСТ/BOOKS.md",
+    "Daily/DAILY.md",
+    "3 ФИНАНСЫ/3.0 ФИНАНСЫ canvas.canvas",
+    "2 РАБОТА/АРХИТЕКТУРА - КАРТА.canvas",
+    "2 РАБОТА/ИНТЕРЬЕР - КАРТА.canvas",
+    "5 ЛИЧНЫЙ РОСТ/PROGRAMMING canvas.canvas",
+    "Daily/PC 2024-05-14.md",
+    "5 ЛИЧНЫЙ РОСТ/Устанавливаем Debian Linux в WSL или VirtualBox.md",
+    "5 ЛИЧНЫЙ РОСТ/Просто о компьютерном железе, битах и байтах.md",
+    "5 ЛИЧНЫЙ РОСТ/PROGRAMMING ОБУЧЕНИЕ.md",
+    "2 РАБОТА/2.2 КУРС ИНТЕРЬРА canvas.canvas",
+    "CG ART MindMap-6dee.ffs_tmp",
+    "Files/Pasted image 20240508222743.png",
+    "Files/Pasted image 20240508222159.png",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "Files/Pasted image 20240429014411.png",
+    "copilot-conversations",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist 1.pdf",
+    "Daily/2024-03-25 2-41bc.ffs_tmp",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist.pdf"
+  ]
+}

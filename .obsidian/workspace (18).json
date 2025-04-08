@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "77cb14a85cfb9c57",
+        "type": "tabs",
+        "dimension": 41.52202937249666,
+        "children": [
+          {
+            "id": "eb74b65a4c132663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/_DAILY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2daf0843dba2454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2024-07-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "591f6c8bd350b9ac",
+        "type": "tabs",
+        "dimension": 58.47797062750334,
+        "children": [
+          {
+            "id": "1c55fd0ffb9df2f9",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__0 Day",
+              "state": {}
+            }
+          },
+          {
+            "id": "de4f1d1a32a1c73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2024-07-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 56.121045392022005,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:AndreyPavlov",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d27e483b07f63b3",
+        "type": "tabs",
+        "dimension": 43.878954607977995,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Daily/2024-07-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Daily/2024-07-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/Daily/2024-07-01.md"
+              }
+            }
+          },
+          {
+            "id": "b583c2fc92c7b4f9",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "b2daf0843dba2454",
+  "lastOpenFiles": [
+    "2 РАБОТА/21 PR/21 PR/!21 PR.md",
+    "2 РАБОТА/20 РАБОТА/!2 РАБОТА.md",
+    "Journal/Daily/2024-07-01.md",
+    "Templates/_DAILY.md",
+    "9 Organize/Classes/0 Day.md",
+    "sync.ffs_lock",
+    "Files/Pasted image 20240701102501.png",
+    "2 РАБОТА/25 STUDIO/!STUDIO CANVAS.canvas",
+    "2 РАБОТА/25 STUDIO/!STUDIO.md",
+    "Journal/Daily/2024-06-30.md",
+    "Journal/Daily/2024-06-29.md",
+    "2 РАБОТА/22 IN/!22 ИНТЕРЬЕР.md",
+    "9 Organize/Classes/21 IN.md",
+    "2 РАБОТА/22 IN/ИНТЕРЬЕР - КАРТА.canvas",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!5 ЛИЧНЫЙ РОСТ.md",
+    "5 ЛИЧНЫЙ РОСТ/52 PROG/!52 PROG.md",
+    "5 ЛИЧНЫЙ РОСТ/52 PROG/!Git.md",
+    "5 ЛИЧНЫЙ РОСТ/52 PROG/!Python.md",
+    "5 ЛИЧНЫЙ РОСТ/52 PROG/!Linux.md",
+    "5 ЛИЧНЫЙ РОСТ/52 PROG/PROGRAMMING.md",
+    "5 ЛИЧНЫЙ РОСТ/51 ENG/!51 EN ENGLISH.md",
+    "2 РАБОТА/20 РАБОТА/2 РАБОТА.md",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/GH AP! Andrii Pavlov.md",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/GH Обучение.md",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/GH AP11 Атрибуты в Rhino и Grasshopper. Плагин Elefront часть 1-я.md",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/GH AP31 Нодовое программирование в Grasshopper.md",
+    "Files/Pasted image 20240628104755.png",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/GH Точка задать координаты.md",
+    "Files/Pasted image 20240628103251.png",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/!53 GH GRASSHOPPER.md",
+    "5 ЛИЧНЫЙ РОСТ/54 RH/RH ГОРЯЧИЕ КЛАВИШИ.md",
+    "5 ЛИЧНЫЙ РОСТ/54 RH/RH Very Important Rhino Commands.md",
+    "Files/Pasted image 20240628085154.png",
+    "Files/Pasted image 20240627171415.png",
+    "Files/Pasted image 20240627164631.png",
+    "Files/Pasted image 20240626164653.png",
+    "Files/Pasted image 20240626164357.png",
+    "Files/Pasted image 20240626164315.png",
+    "Files/Pasted image 20240626164206.png",
+    "VIM Настройка Vim",
+    "2 РАБОТА/25 STUDIO/TELEGRAM.canvas",
+    "2 РАБОТА/20 РАБОТА/2 РАБОТА canvas.canvas",
+    "sync 3.ffs_db",
+    "sync 2.ffs_db",
+    "2 РАБОТА/21 PR/21 PR/21 PR.canvas",
+    "2 РАБОТА/21 PR/21 PR",
+    "2 РАБОТА/21 PR/21 IN/IN36_001_Однушка/IN36_001_Однушка.canvas",
+    "2 РАБОТА/21 PR/21 IN",
+    "2 РАБОТА/21 PR/21 IN/IN36_001_Однушка",
+    "5 ЛИЧНЫЙ РОСТ/54 RH/54 RH.canvas",
+    "5 ЛИЧНЫЙ РОСТ/54 RH",
+    "1 ЗДОРОВЬЕ/1.0 ЗДОРОВЬЕ canvas.canvas",
+    "2 РАБОТА/22 IN/ИНТЕРЬЕР - КАРТА (2).canvas",
+    "2 РАБОТА/21 PR",
+    "2 РАБОТА/25 STUDIO",
+    "5 ЛИЧНЫЙ РОСТ/53 GH/53 GH.canvas"
+  ]
+}

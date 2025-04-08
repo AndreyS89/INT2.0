@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "591f6c8bd350b9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde3dd10324cf670",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.canvas",
+                "viewState": {
+                  "x": 873.2723726875423,
+                  "y": 470.26053587080196,
+                  "zoom": -0.6666666666666667
+                }
+              }
+            }
+          },
+          {
+            "id": "6dbcde61a197efcd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 65.4922279792746,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:AndreyPavlov",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d27e483b07f63b3",
+        "type": "tabs",
+        "dimension": 34.50777202072539,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b583c2fc92c7b4f9",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Copilot Chat": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6dbcde61a197efcd",
+  "lastOpenFiles": [
+    "6 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО kanban.md",
+    "6 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО excalidraw.md",
+    "6 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "sync.ffs_lock",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/50! ПРИНЦИПЫ.md",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.excalidraw.md",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.md",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.canvas",
+    "Excalidraw/Drawing 2024-07-22 11.02.11.excalidraw.md",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/-50! ПРИНЦИПЫ.md",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/Drawing 2024-07-22 10.42.16.excalidraw.md",
+    "Excalidraw",
+    "Journal/Daily/2024-07-22.md",
+    "9 Organize/Classes/50 ЛИЧНЫЙ РОСТ.md",
+    "0 BD/DASHBOARD.canvas",
+    "0 BD/0 BD canvas.canvas",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO.md",
+    "0 BD/STATUS.canvas",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO.canvas",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG !Beginer.md",
+    "9 Organize/Classes/25 ST.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/63 !CG ART.md",
+    "2 РАБОТА/26 TG/!TELEGRAM (2).canvas",
+    "2 РАБОТА/26 TG/!TELEGRAM.canvas",
+    "2 РАБОТА/26 TG/!26 TELEGRAM.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/63 !CG ART MindMap.canvas",
+    "Journal/Daily/2024-07-21.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Формы 2D.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Линии.md",
+    "Templates/_63 CG ART.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG !Advance.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG !Extra.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Анатомия.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Перспектива.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Формы 3D.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Формы в объектах.md",
+    "6 ТВОРЧЕСТВО/63 CG Art/CG Shading.md",
+    "6 ТВОРЧЕСТВО/60 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "6 ТВОРЧЕСТВО/60 ТВОРЧЕСТВО",
+    "6 ТВОРЧЕСТВО/63 CG Art",
+    "Files/aiogram_fast_pt1-main.zip",
+    "Files/Pasted image 20240717160829.png",
+    "Files/Pasted image 20240717160751.png",
+    "Files/Pasted image 20240717155303.png",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO",
+    "2 РАБОТА/26 TG",
+    "Files/Снимок экрана 2024-07-16 120404.png",
+    "Files/Pasted image 20240716113544.png",
+    "2 РАБОТА/21 PR/21 IN/IN32_001_Однушка",
+    "Files/Pasted image 20240710182223.png",
+    "Files/Циркадные_ритмы_или_сон_здорового_человека.pdf",
+    "Files/Управление_сексуальной_энергией.pdf",
+    "Files/Pasted image 20240703141800.png",
+    "Files/Pasted image 20240701102501.png",
+    "Files/Pasted image 20240628104755.png",
+    "Files/Pasted image 20240628103251.png"
+  ]
+}

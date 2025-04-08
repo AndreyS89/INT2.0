@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "851d6678dff87388",
+        "type": "tabs",
+        "dimension": 66.73441734417345,
+        "children": [
+          {
+            "id": "55c3254d52f42f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 РАБОТА/ИНТЕРЬЕР.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e32ad8daa43b392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/AI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90f0ce722a96a21b",
+        "type": "tabs",
+        "dimension": 33.265582655826556,
+        "children": [
+          {
+            "id": "4fa6f9e7e43b81f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 BD/0 BD names.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39fb74d6c58eb0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 BD/0 Obsidian hotkeys.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 57.7922077922078,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1_",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "85b783a8e0a6e9f1",
+        "type": "tabs",
+        "dimension": 42.2077922077922,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 ЛИЧНЫЙ РОСТ/AI.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "2e32ad8daa43b392",
+  "lastOpenFiles": [
+    "LAMA.md",
+    "5 ЛИЧНЫЙ РОСТ/LAMA.md",
+    "2 РАБОТА/ИНТЕРЬЕРЫ.md",
+    "2 РАБОТА/IN RHINO - НАСТРОЙКА.md",
+    "2 РАБОТА/IN_36_01.md",
+    "2 РАБОТА/IN до 40 кв.md",
+    "5 ЛИЧНЫЙ РОСТ/AI.md",
+    "2 РАБОТА/ИНТЕРЬЕР.md",
+    "Daily/PC 2024-03-17 - шкаф в спальне.md",
+    "2 РАБОТА/ИНТЕРЬЕР - КАРТА.canvas",
+    "0 BD/0 Obsidian hotkeys.md",
+    "0 BD/0 BD names.md",
+    "ИНТЕРЬЕРЫ.md",
+    "sync.ffs_lock",
+    "IN_36_01.md",
+    "IN до 40 кв.md",
+    "2 РАБОТА/D5 RENDER.md",
+    "2 РАБОТА/BLENDER.md",
+    "2 РАБОТА/SPECKLE.md",
+    "2 РАБОТА/IN D5 RENDER - НАСТРОЙКА.md",
+    "2 РАБОТА/REVIT.md",
+    "2 РАБОТА/ТЕОРИЯ.md",
+    "2 РАБОТА/УПРАВЛЕНИЕ.md",
+    "2 РАБОТА/IN УПРАВЛЕНИЕ - НАСТРОЙКА ПРОЕКТА.md",
+    "2 РАБОТА/IN НАСТРОЙКИ.md",
+    "IN RHINO - НАСТРОЙКА.md",
+    "2 РАБОТА/IN BLENDER - НАСТРОЙКА.md",
+    "2 РАБОТА/IN SPECKLE - НАСТРОЙКА.md",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist 1.pdf",
+    "2 РАБОТА/KG MindMap.canvas",
+    "Files/Pasted image 20240327195853.png",
+    "Files/Pasted Image 20240326144825_355.png",
+    "Files/Pasted image 20240326142404.png",
+    "Daily/2024-03-25 2-41bc.ffs_tmp",
+    "Files/How to install Stable Diffusion on Windows (AUTOMATIC1111) – Arch Viz Artist.pdf",
+    "Export/PY CR Диджитализируй.html",
+    "Export/5.2 DG Диджитализируй.pdf",
+    "7 ОКРУЖЕНИЕ/7.0 ОКРУЖЕНИЕ canvas.canvas",
+    "6 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "1 ЗДОРОВЬЕ/1.0 ЗДОРОВЬЕ canvas.canvas",
+    "2 РАБОТА/2.2 КУРС ИНТЕРЬРА canvas.canvas",
+    "2 РАБОТА/2.0 РАБОТА canvas.canvas",
+    "3 ФИНАНСЫ/3.0 ФИНАНСЫ canvas.canvas",
+    "4 ЛЖ/4.0 ЛЖ canvas.canvas",
+    "5 ЛИЧНЫЙ РОСТ/5.0 ЛИЧНЫЙ РОСТ canvas.canvas",
+    "Export",
+    "Files/Pasted image 20240223214227.png",
+    "RecycleBin~dfc6.ffs_tmp/Templates",
+    "RecycleBin~dfc6.ffs_tmp",
+    "RecycleBin~c28f.ffs_tmp/0 BD",
+    "Files/Pasted image 20231001114609.png",
+    "Files/Pasted image 20230930235913.png",
+    "Files/Pasted image 20230930230331.png",
+    "Files/Pasted image 20230930225019.png",
+    "Files/Pasted image 20230930214801.png",
+    "Files/Pasted image 20230930214750.png"
+  ]
+}

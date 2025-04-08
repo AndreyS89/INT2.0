@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "5306d8c9e156dada",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d70616482467778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee5afb538020374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 BD/!0 BD !NAMES.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3897b81e6d94e8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 Organize/Classes/80 ИЗМ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b0f64b05201f696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 ИЗМЕНЕНИЯ/!80 ИЗМЕНЕНИЯ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 65.4922279792746,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "58",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d27e483b07f63b3",
+        "type": "tabs",
+        "dimension": 34.50777202072539,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9 Organize/Classes/80 ИЗМ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9 Organize/Classes/80 ИЗМ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9 Organize/Classes/80 ИЗМ.md"
+              }
+            }
+          },
+          {
+            "id": "b583c2fc92c7b4f9",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Copilot Chat": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "3897b81e6d94e8ba",
+  "lastOpenFiles": [
+    "0 BD/!0 BD !NAMES.md",
+    "8 ИЗМЕНЕНИЯ/!80 ИЗМЕНЕНИЯ.md",
+    "2 ПРОГРАММЫ/!20 ПРОГРАММЫ.md",
+    "Templates/_80 ИЗМЕНЕНИЯ.md",
+    "Templates/_20 ПРОГРАММЫ.md",
+    "Templates/_0 MAIN.md",
+    "2 ПРОГРАММЫ/OBSIDIAN!.md",
+    "2 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
+    "Files/Pasted image 20241014082420.png",
+    "0 BD/0 Symbols.md",
+    "9 Organize/Classes/80 ИЗМ.md",
+    "9 Organize/Lookups/TYPE.md",
+    "9 Organize/Classes/20 ПРОГ.md",
+    "9 Organize/Lookups/SubTYPE.md",
+    "8 ИЗМЕНЕНИЯ",
+    "0 BD/!0 BD !NAMES.svg",
+    "1 ИНТЕРЬЕР/11 IN PROJECTS/11 IN Tasks/IN00!.md",
+    "9 Organize/Lookups/Project Phase.md",
+    "9 Organize/Lookups/Project Priority.md",
+    "9 Organize/Lookups/Project Status.md",
+    "9 Organize/Classes/0 All.md",
+    "9 Organize/Classes/00 BD.md",
+    "9 Organize/Lookups",
+    "9 Organize/Classes/65 TILDA.md",
+    "9 Organize/Classes/64 FIGMA.md",
+    "9 Organize/Classes/63 CG Art.md",
+    "9 Organize/Classes/62 BLENDER.md",
+    "9 Organize/Classes/61 FORTEPIANO.md",
+    "9 Organize/Classes/57 FILMS.md",
+    "9 Organize/Classes",
+    "9 Organize",
+    "0 BD/0 BD canvas.canvas",
+    "2 РАБОТА/26 TG/!TELEGRAM.canvas",
+    "2 РАБОТА/26 TG/!26 TELEGRAM.svg",
+    "Files/Pasted image 20241005110746.png",
+    "Files/Pasted image 20241005110656.png",
+    "Files/Pasted image 20240915210352.png",
+    "Files/Pasted image 20240915210135.png",
+    "Files/Pasted image 20240915210006.png",
+    "Files/Pasted image 20240915204358.png",
+    "Files/Pasted image 20240915204235.png",
+    "Files/Flux_NF4_v2_Upscaler.json",
+    "Files/ControlNet_OpenPose_workflow.json",
+    "5 ЛИЧНЫЙ РОСТ/58 AI",
+    "Files/Installing and Running FLUX Locally in ComfyUI.mp4",
+    "6 ТВОРЧЕСТВО/62 BLENDER",
+    "6 ТВОРЧЕСТВО/61 PIANO",
+    "6 ТВОРЧЕСТВО/63 CG Art/63 !CG ART MindMap.canvas",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO.canvas",
+    "5 ЛИЧНЫЙ РОСТ/55 OB/!55 OBSIDIAN/!55 Obsidian.canvas",
+    "6 ТВОРЧЕСТВО/60 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.canvas",
+    "0 BD/DASHBOARD.canvas",
+    "0 BD/STATUS.canvas",
+    "2 РАБОТА/26 TG/!TELEGRAM (2).canvas"
+  ]
+}

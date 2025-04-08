@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "dimension": 33.225806451612904,
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 BD/!0 BD NAMES.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!0 BD NAMES"
+            }
+          },
+          {
+            "id": "bb2a20d1ff3e8680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 DZ ДИЗАЙН.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!30 DZ ДИЗАЙН"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a0c48fd917429b4f",
+        "type": "tabs",
+        "dimension": 66.77419354838709,
+        "children": [
+          {
+            "id": "18047b8983295edd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 DZ ДИЗАЙН.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "!30 DZ ДИЗАЙН"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b9faeaeb514657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b987723fd3584a",
+        "type": "tabs",
+        "dimension": 65.4922279792746,
+        "children": [
+          {
+            "id": "86b128d30b22f50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72f8e410b9e0cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:prog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df3d4670810fc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d27e483b07f63b3",
+        "type": "tabs",
+        "dimension": 34.50777202072539,
+        "children": [
+          {
+            "id": "b3fb655f7e10ac49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa283fe09a47b875",
+    "type": "split",
+    "children": [
+      {
+        "id": "952f0e2fd09f13fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ca29e396ce5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8bfd96a122f41a21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1045389ab3af7449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c197c3d5e406d067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 DZ ДИЗАЙН.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of !30 DZ ДИЗАЙН"
+            }
+          },
+          {
+            "id": "c7eec53eb7fca794",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "18047b8983295edd",
+  "lastOpenFiles": [
+    "FIGMA - hotkeys.md",
+    "Files/Pasted Image 20241128075840_940.png",
+    "0 BD/!0 BD NAMES.md",
+    "3 ДИЗАЙН/30 DZ PROJECTS/!30 DZ ДИЗАЙН.md",
+    "sync.ffs_db.5c62.ffs_tmp",
+    "sync.ffs_lock",
+    "1 ПРОГРАММЫ/!10 PR ПРОГРАММЫ.md",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+    "Templates/_30 DZ.md",
+    "1 ПРОГРАММЫ/!FIGMA.md",
+    "1 ПРОГРАММЫ/!BLENDER.md",
+    "Templates/_10 PROG.md",
+    "0 BD/!0 BD !NAMES.svg",
+    "3 ДИЗАЙН/33 DZ figma",
+    "9 Organize/Classes/-30 ДИЗАЙН.md",
+    "3 ДИЗАЙН/32 DZ theory",
+    "3 ДИЗАЙН/30 DZ PROJECTS",
+    "3 ДИЗАЙН/31 DZ management",
+    "3 ДИЗАЙН/30/!20 IN ИНТЕРЬЕР.md",
+    "3 ДИЗАЙН/30",
+    "3 ДИЗАЙН/24 IN blender/IN 4.8 Детализация.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.7 Текстурирование.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.6 Освещение.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.5 Фурнитура.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.4 Базовая настройка.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.3 Детали основной модели.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.2 Основная модель.md",
+    "3 ДИЗАЙН/24 IN blender/IN 4.1 Настройка сцены.md",
+    "3 ДИЗАЙН/24 IN blender/!IN 4 BLENDER.md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.8 Развёртки (4).md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.7 Электрика (3).md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.6 Отделка (2).md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.5 Меблировка (1-2).md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.4 Новые конструкции (1).md",
+    "3 ДИЗАЙН/23 IN revit/IN 3.3 Обмеры, демонтаж (1).md",
+    "3 ДИЗАЙН/24 IN blender",
+    "3 ДИЗАЙН/23 IN revit",
+    "3 ДИЗАЙН/22 IN theory",
+    "Files/Pasted image 20241110191605.png",
+    "Files/Pasted image 20241110191454.png",
+    "Files/Pasted image 20241110191409.png",
+    "Files/Pasted image 20241110191251.png",
+    "Files/Pasted image 20241110191153.png",
+    "Files/Pasted image 20241110191145.png",
+    "Files/Pasted image 20241110190742.png",
+    "Files/Pasted image 20241110190704.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2 ПРОГРАММЫ/BLENDER! canvas.canvas",
+    "0 BD/0 BD canvas.canvas",
+    "2 РАБОТА/26 TG/!TELEGRAM.canvas",
+    "6 ТВОРЧЕСТВО/63 CG Art/63 !CG ART MindMap.canvas",
+    "2 РАБОТА/25 STUDIO/!25 STUDIO.canvas",
+    "5 ЛИЧНЫЙ РОСТ/55 OB/!55 OBSIDIAN/!55 Obsidian.canvas",
+    "6 ТВОРЧЕСТВО/60 ТВОРЧЕСТВО/6.0 ТВОРЧЕСТВО canvas.canvas",
+    "5 ЛИЧНЫЙ РОСТ/50 ЛР/!50 ЛИЧНЫЙ РОСТ.canvas"
+  ]
+}

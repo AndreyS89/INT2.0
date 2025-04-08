@@ -1,0 +1,166 @@
+{
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "nldates-obsidian:nlp-picker": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "contribution-graph:create-graph": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "metadata-menu:field_options": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-icon-folder:iconize:set-icon-for-file": [],
+  "obsidian-excalidraw-plugin:toggle-excalidraw-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-excalidraw-plugin:universal-card": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}

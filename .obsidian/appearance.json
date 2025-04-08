@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "translucency": true,
+  "baseFontSize": 13,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "tasks-plugin-backlinks-small-grey",
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
+}
