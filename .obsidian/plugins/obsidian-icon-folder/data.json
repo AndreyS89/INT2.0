@@ -30,7 +30,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Files/Pasted image 20250128232241.png": "LiActivitySquare"
 }

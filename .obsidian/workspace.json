@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "!20 IN ИНТЕРЬЕР"
+              "title": "README"
             }
           }
         ]
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.51103591918945,
-    "collapsed": true
+    "width": 261.51103591918945
   },
   "right": {
     "id": "aa283fe09a47b875",
@@ -182,8 +181,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -202,18 +201,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "copilot:Copilot Chat": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "0 BD/!0 BD NAMES.md",
     "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
-    "sync.ffs_db.652d.ffs_tmp",
+    "2 ИНТЕРЬЕР/24 IN blender/!IN 4 BLENDER.md",
+    "2 ИНТЕРЬЕР/24 IN blender/IN 4.1 Настройка сцены.md",
+    "README.md",
     "sync.ffs_lock",
+    "sync.ffs_db.652d.ffs_tmp",
     "sync.ffs_db.9733.ffs_tmp",
     "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР 1.md",
     "1 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
@@ -253,8 +254,6 @@
     "0 Organize/Classes/-80 АРХИТЕКТУРА.md",
     "7 МЫШЛЕНИЕ/72! ИСТОРИЯ.md",
     "7 МЫШЛЕНИЕ/!70 МЫШЛЕНИЕ.md",
-    "0 Organize/Classes/-70 МЫШЛЕНИЕ.md",
-    "0 Organize/Classes/-0 All.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2 ПРОГРАММЫ/BLENDER! canvas.canvas",
