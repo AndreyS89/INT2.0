@@ -1,6 +1,6 @@
 ---
 banner: "![[Pasted image 20241104215956.png]]"
-banner_y: 0.75
+banner_y: 0.68
 DATE: 2024-10-14 07:38
 CLASS: -0 All
 TYPE: GENERAL
