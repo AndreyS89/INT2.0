@@ -6,8 +6,8 @@
 → 🔗 ссылка на YouTube 🔗 ()  
   
 **• Есть старый шаблон:**  
-→ ссылка на [YouTube обзор старого шаблона (там есть ссылки на материалы)](https://youtu.be/AbVI7s5mlUw?si=YLuUTRlHYAHiMxro)  
-→ 🔗ссылка на Trello 🔗(https://trello.com/b/8WaEKBQY)    
+[→ ссылка на YouTube обзор старого шаблона (там есть ссылки на материалы)](https://youtu.be/AbVI7s5mlUw?si=YLuUTRlHYAHiMxro)  
+[→ 🔗ссылка на Trello 🔗](https://trello.com/b/8WaEKBQY)    
 
 ## 📌 ПРОЕКТ → INT2.0  
 [→ 🔗 ссылка на пост TELEGRAM](https://t.me/c/2180471678/15)  
