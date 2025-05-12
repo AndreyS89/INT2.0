@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 56.769230769230774,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ИНТЕРЬЕР/20 IN PROJECTS/IN32_001.md",
+                "file": "1 ПРОГРАММЫ/!FIGMA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IN32_001"
+              "title": "!FIGMA"
             }
           },
           {
-            "id": "ea53e3be86e32c8a",
+            "id": "429bf729f737dafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +53,63 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OBSIDIAN hotkeys"
+              "title": "!30 ДИЗАЙН"
+            }
+          },
+          {
+            "id": "5c7ddc5410cc8bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 ДИЗАЙН/34 DZ nich/DZ4! НИШИ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DZ4! НИШИ"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dd9db128ca89ffff",
+        "type": "tabs",
+        "dimension": 43.230769230769226,
+        "children": [
+          {
+            "id": "f26b518cb1ffa755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "!30 ДИЗАЙН"
             }
           }
         ]
@@ -130,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "aa283fe09a47b875",
@@ -225,59 +283,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f26b518cb1ffa755",
   "lastOpenFiles": [
+    "3 ДИЗАЙН/34 DZ nich/DZ4! НИШИ.md",
+    "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
+    "3 ДИЗАЙН/34 DZ nich/DZ4 Франшиза пиццерий.md",
+    "0 BD/!0 BD NAMES.md",
+    "1 ПРОГРАММЫ/!FIGMA.md",
+    "6 ДЕЯТЕЛЬНОСТЬ/YOUTUBE!.md",
+    "1 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
+    "Files/Pasted image 20250512154237.png",
+    "Files/Pasted image 20250512154129.png",
+    "Files/Pasted image 20250512153833.png",
+    "Files/Pasted image 20250512153755.png",
+    "Files/Pasted image 20250512153205.png",
+    "Files/Pasted image 20250512150910.png",
+    "Files/Pasted image 20250512145351.png",
+    "Files/Pasted image 20250512144605.png",
+    "6 ДЕЯТЕЛЬНОСТЬ/!60 ДЕЯТЕЛЬНОСТЬ.md",
+    "Files/Pasted image 20250512143150.png",
+    "Files/Pasted image 20250512142827.png",
+    "6 ДЕЯТЕЛЬНОСТЬ/61! ПРЕДПРИНИМАТЕЛЬСТВО.md",
+    "1 ПРОГРАММЫ/!REVIT.md",
+    "1 ПРОГРАММЫ/REVIT !общие данные.md",
+    "Templates/_10 PROG.md",
+    "Templates/_20 IN.md",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
+    "1 ПРОГРАММЫ/!10 PR ПРОГРАММЫ.md",
+    "Files/RV.md",
+    "2 ИНТЕРЬЕР/23 IN revit/!IN 3 REVIT.md",
+    "0 Organize/Classes/-10 ПРОГРАММЫ.md",
+    "2 ИНТЕРЬЕР/23 IN revit/IN 3.1 Подготовка проекта (0).md",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/IN32_001.md",
     "sync.ffs_db.e428.ffs_tmp",
     "sync.ffs_lock",
-    "1 ПРОГРАММЫ/OBSIDIAN hotkeys.md",
-    "2 ИНТЕРЬЕР/20 IN PROJECTS/IN32_001.md",
-    "0 BD/!0 BD NAMES.md",
-    "1 ПРОГРАММЫ/!10 PR ПРОГРАММЫ.md",
-    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
     "0 BD/0 Symbols.md",
-    "Files/Pasted image 20250423220705.png",
-    "Files/(0)1! НАСТРОЙКА ПРОЕКТА.png",
-    "Files/Pasted image 20250422222453.png",
-    "Files/Pasted image 20250422222408.png",
-    "Files/Pasted image 20250422222059.png",
-    "Files/Pasted image 20250422220846.png",
-    "Files/Pasted image 20250422220004.png",
     "5 AI/!50 AI.md",
-    "Files/Снимок экрана 2024-12-28 145309.png",
-    "Files/Pasted image 20250120133811.png",
-    "Files/Pasted image 20250120133643.png",
-    "3 ДИЗАЙН/34 DZ nich/DZ4 Франшиза пиццерий.md",
     "3 ДИЗАЙН/34 DZ nich/DZ4 Спа-салон.md",
     "3 ДИЗАЙН/34 DZ nich/DZ4 Свадебное агентство.md",
     "3 ДИЗАЙН/34 DZ nich/DZ4 Сайт для продажи жилого квартала от застройщика.md",
     "3 ДИЗАЙН/34 DZ nich/DZ4 Английской для детей.md",
     "Files/Тарифы и таблицы.pdf",
     "Files/Терминология в веб-дизайне.pdf",
-    "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
     "Files/Аналитика сайта.pdf",
     "Files/Быстрое портфолио (1).pdf",
     "Files/Отступы рифма и ритм.pdf",
     "Files/Основы типографики.pdf",
     "Files/Основные правила.pdf",
     "Files/Этапы создания сайта_compressed.pdf",
-    "Files/Композиция и баланс.pdf",
-    "8 АРХИТЕКТУРА/!80 АРХИТЕКТУРА.md",
-    "README.md",
-    "2 ИНТЕРЬЕР/24 IN blender/!IN 4 BLENDER.md",
-    "2 ИНТЕРЬЕР/24 IN blender/IN 4.1 Настройка сцены.md",
-    "().md",
-    "4 ТВОРЧЕСТВО/41 ART CG/41! ART CG.md",
-    "4 ТВОРЧЕСТВО/40 ART/!40 ART ТВОРЧЕСТВО.md",
-    "2 ИНТЕРЬЕР/23 IN revit/!IN 3 REVIT.md",
-    "2 ИНТЕРЬЕР/21 IN management/!IN 1 УПРАВЛЕНИЕ ПРОЕКТОМ.md",
-    "2 ИНТЕРЬЕР/24 IN blender/Untitled.md",
-    "0 Organize/Lookups/TYPE.md",
-    "1 ПРОГРАММЫ/!OBSIDIAN.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2 ПРОГРАММЫ/BLENDER! canvas.canvas",

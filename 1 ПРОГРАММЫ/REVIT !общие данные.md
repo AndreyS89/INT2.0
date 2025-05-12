@@ -1,52 +1,55 @@
 ---
-DATE: 2024-11-10 18:43
-CLASS: -20 ИНТЕРЬЕР
+DATE: 2025-05-01 20:12
+CLASS: -10 ПРОГРАММЫ
 TYPE: REVIT
-SubTYPE: general
-cover: 
-note: описание
+SubTYPE: общие данные
+cover: "![[RV 001 (min) data (параметры) 1.png|200]]"
+note: 
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-  - in_stage_3_revit
+  - prog
+  - revit26
+  - data
 excalidraw-open-md: true
 ---
+## *cover*
+![[RV 001 (min) data (параметры) 1.png]]
+
+
 ## _table_
 ```dataview
 TABLE
 	note as "Примечание",
 	tags as "Tags",
 	cover as "Cover"
-WHERE CLASS = "-20 ИНТЕРЬЕР" where TYPE = "REVIT" where SubTYPE != "general"
+FROM #revit26
+WHERE CLASS = "-10 ПРОГРАММЫ" where TYPE = "REVIT" where SubTYPE = "general"
 SORT published
 ```
-- [[IN 3.1 Подготовка проекта (0)]]
-- [[IN 3.2 Эскиз плана (0)]]
-- [[IN 3.3 Обмеры, демонтаж (1)]]
-- [[IN 3.4 Новые конструкции (1)]]
-- [[IN 3.5 Меблировка (1-2)]]
-- [[IN 3.6 Отделка (2)]]
-- [[IN 3.7 Электрика (3)]]
-- [[IN 3.8 Развёртки (4)]]
-# [[!IN 3 REVIT]]
-## **УРОКИ**
-- **УРОКИ**
+- 
 ---
-- [[!REVIT]]
-	```dataview
-	TABLE
-	WHERE CLASS = "-10 ПРОГРАММЫ" where TYPE = "REVIT" where SubTYPE != "general"
-	SORT published
-	```
-
-
-___
+# [[REVIT !общие данные]]
+- **REVIT общие данные**
+---
+## *МАТЕРИАЛЫ*
+- *МАТЕРИАЛЫ*
+---
+- **LINK:**
+	- [b] [FIGMA - карта REVIT](https://www.figma.com/design/2D8m6ScUy0LeQlqDORWXWx/INT-2.0?node-id=144-2340&t=9I96FKt2mBC4crSA-1)
+	- [b] 
 
 ---
-# Desk - IN 3 REVIT
+## **ТЕМА** описание
+- **ТЕМА** описание
+---
+- 
 
-![[IN 3 REVIT.svg]]
+---
 %%
+# Desk - REVIT общие данные
+
+![[REVIT общие данные.svg]]
 # Excalidraw Data
 ## Text Elements
 BACKLOG ^irN3rVwb

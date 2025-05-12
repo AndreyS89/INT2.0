@@ -1,27 +1,28 @@
 ---
 DATE: {{date}} {{time}}
 CLASS: -10 ПРОГРАММЫ
-TYPE: GRASSSHOPPER
-SubTYPE: скрипты
+TYPE: REVIT
+SubTYPE: -
 cover: 
 note: о
 excalidraw-plugin: parsed
 tags: 
   - excalidraw
   - prog
-  - grasshopper
-  - gh_design
+  - revit26
+  - data
 excalidraw-open-md: true
 ---
-note: [link-YT]() `D:\CLOUDS\YandexDisk\YandexDisk\90 DESIGN\GRASSHOPPER\05 Scripts` [link-disk](https://disk.yandex.ru/d/Or9av8L_KX7DZQ)
+## *cover*
+![[Pasted image 20250501203313.png]]
 ## _table_
 ```dataview
 TABLE
 	note as "Примечание",
 	tags as "Tags",
 	cover as "Cover"
-FROM #gh_design 
-WHERE CLASS = "-10 ПРОГРАММЫ" where TYPE = "GRASSSHOPPER" where SubTYPE = "скрипты"
+FROM #revit26
+WHERE CLASS = "-10 ПРОГРАММЫ" where TYPE = "REVIT" where SubTYPE != "general"
 SORT published
 ```
 - 
@@ -33,17 +34,8 @@ SORT published
 - *МАТЕРИАЛЫ*
 ---
 - **LINK:**
+	- [b] [FIGMA - карта REVIT](https://www.figma.com/design/2D8m6ScUy0LeQlqDORWXWx/INT-2.0?node-id=144-2340&t=9I96FKt2mBC4crSA-1)
 	- [b] 
-
----
-## *ОБУЧЕНИЕ*
-- *ОБУЧЕНИЕ*
----
-### ОБУЧЕНИЕ *YouTube*
-- ОБУЧЕНИЕ *YouTube*
----
-- **LINK:**
-	- [i] 
 
 ---
 ## **ТЕМА** описание
