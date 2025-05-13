@@ -6,15 +6,15 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 59.07692307692308,
+        "dimension": 55.69230769230769,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "de9a34baa4cde714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 ДЕЯТЕЛЬНОСТЬ/!YOUTUBE.md",
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "!YOUTUBE"
+              "title": "!30 ДИЗАЙН"
             }
           }
         ]
@@ -37,15 +37,15 @@
       {
         "id": "31118fed03fec6b7",
         "type": "tabs",
-        "dimension": 40.92307692307692,
+        "dimension": 44.30769230769231,
         "children": [
           {
-            "id": "347d4e3494287f74",
+            "id": "aaac0a4c15a04812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 ДЕЯТЕЛЬНОСТЬ/!YOUTUBE.md",
+                "file": "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "!YOUTUBE"
+              "title": "!30 ДИЗАЙН"
             }
           },
           {
@@ -111,7 +111,8 @@
               "title": "_0 MAIN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,34 +288,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "347d4e3494287f74",
+  "active": "de9a34baa4cde714",
   "lastOpenFiles": [
     "1 ПРОГРАММЫ/OBSIDIAN !hotkeys.md",
+    "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
+    "Files/Pasted image 20250513172614.png",
+    "2 ИНТЕРЬЕР/20 IN PROJECTS/!IN ИНТЕРЬЕР.md",
     "Templates/_0 MAIN.md",
     "6 ДЕЯТЕЛЬНОСТЬ/!YOUTUBE.md",
+    "3 ДИЗАЙН/34 DZ nich/DZ4! НИШИ.md",
+    "Files/Pasted image 20250513170704.png",
+    "0 BD/!BD NAMES.md",
+    "2 ИНТЕРЬЕР/22 IN theory/IN !ПЕРЕПЛАНИРОВКА.md",
+    "Files/Pasted image 20250513154143.png",
+    "Files/Pasted image 20250513154019.png",
+    "Files/Pasted image 20250513153954.png",
+    "Files/Pasted image 20250513142718.png",
+    "IN 3 REVIT.svg.md",
     "Files/Pasted image 20250513112947.png",
     "Files/Pasted image 20250513112929.png",
     "Files/Pasted image 20250513110739.png",
     "0 Obsidian hotkeys.svg.md",
     "6 ДЕЯТЕЛЬНОСТЬ/!60 ДЕЯТЕЛЬНОСТЬ.md",
-    "0 BD/!BD NAMES.md",
-    "3 ДИЗАЙН/30 DZ PROJECTS/!30 ДИЗАЙН.md",
-    "3 ДИЗАЙН/34 DZ nich/DZ4! НИШИ.md",
     "3 ДИЗАЙН/34 DZ nich/DZ4 Франшиза пиццерий.md",
     "1 ПРОГРАММЫ/!FIGMA.md",
     "Files/Pasted image 20250512154237.png",
-    "Files/Pasted image 20250512154129.png",
-    "Files/Pasted image 20250512153833.png",
-    "Files/Pasted image 20250512153755.png",
-    "Files/Pasted image 20250512153205.png",
-    "Files/Pasted image 20250512150910.png",
-    "Files/Pasted image 20250512145351.png",
     "6 ДЕЯТЕЛЬНОСТЬ/61! ПРЕДПРИНИМАТЕЛЬСТВО.md",
     "1 ПРОГРАММЫ/!REVIT.md",
     "1 ПРОГРАММЫ/REVIT !общие данные.md",
     "Templates/_10 PROG.md",
     "Templates/_20 IN.md",
-    "2 ИНТЕРЬЕР/20 IN PROJECTS/!20 IN ИНТЕРЬЕР.md",
     "1 ПРОГРАММЫ/!10 PR ПРОГРАММЫ.md",
     "Files/RV.md",
     "2 ИНТЕРЬЕР/23 IN revit/!IN 3 REVIT.md",
@@ -324,9 +327,6 @@
     "sync.ffs_db.e428.ffs_tmp",
     "sync.ffs_lock",
     "0 BD/!Symbols.md",
-    "5 AI/!50 AI.md",
-    "3 ДИЗАЙН/34 DZ nich/DZ4 Спа-салон.md",
-    "3 ДИЗАЙН/34 DZ nich/DZ4 Свадебное агентство.md",
     "Files/Тарифы и таблицы.pdf",
     "Files/Терминология в веб-дизайне.pdf",
     "Files/Аналитика сайта.pdf",

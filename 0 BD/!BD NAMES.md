@@ -88,7 +88,7 @@ SORT name
 # 20 ИНТЕРЬЕРЫ
 ## **20 ИНТЕРЬЕРЫ** *ПРОЕКТЫ*
 - **ПРОЕКТЫ**
-	- [[!20 IN ИНТЕРЬЕР]]
+	- [[!IN ИНТЕРЬЕР]]
 - **ПРОЕКТЫ** *ИЗМЕНЕНИЯ*
 	`$=dv.list(dv.pages('#in_project').where(f => f.file.name != '!0 BD NAMES').sort(f => f.file.name, "desc").limit(10).file.link )`
 ## **20 ИНТЕРЬЕРЫ** *КАТЕГОРИИ*
