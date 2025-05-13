@@ -19,7 +19,7 @@ WHERE CLASS = "20 ПРОГРАММЫ" where TYPE = "-" where SubTYPE != "-"
 SORT published
 ```
 ---
-# [[OBSIDIAN hotkeys]]
+# [[OBSIDIAN !hotkeys]]
 ## Navigation
 - `Ctrl + O` - search - open / create a note
 - `Ctrl + tab` -  switch tab

@@ -10,8 +10,9 @@ tags:
   - excalidraw
 excalidraw-open-md: true
 ---
-
-## _table_
+## *\*cover*
+![[Pasted image 20250512130608.png]]
+## *\*table*
 ```dataview
 TABLE
 	note as "Примечание",
@@ -20,10 +21,43 @@ TABLE
 WHERE CLASS = "-" where SubTYPE = "general" where TYPE != "GENERAL"
 SORT published
 ```
-- 
+- [[!BD NAMES]]
 ---
 # [[{{title}}]]
-- 
+- [[{{title}}]]
+---
+## **ADD**
+- **ADD**
+---
+### заголовок
+
+---
+## *МАТЕРИАЛЫ*
+- *МАТЕРИАЛЫ*
+---
+### заголовок
+
+---
+## main
+- main
+---
+### **ЗАГОЛОВОК**
+- **ЗАГОЛОВОК**
+---
+
+
+---
+### **ЗАГОЛОВОК**
+- **ЗАГОЛОВОК**
+---
+
+
+---
+### **ЗАГОЛОВОК**
+- **ЗАГОЛОВОК**
+---
+
+
 ---
 # Desk - {{title}}
 

@@ -26,7 +26,7 @@ SORT published
 
 ---
 
-- [[OBSIDIAN hotkeys]]
+- [[OBSIDIAN !hotkeys]]
 - [[OBSIDIAN plugins]]
 
 ---
